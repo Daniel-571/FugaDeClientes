@@ -1,4 +1,4 @@
-# 👩‍💻 3️⃣ Modelado y Entrenamiento
+# Modelado y Entrenamiento
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.metrics import accuracy_score
