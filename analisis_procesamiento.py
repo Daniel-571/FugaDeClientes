@@ -1,4 +1,4 @@
-# 👩‍💻 1️⃣ Análisis y Preprocesamiento de Datos
+# Análisis y Preprocesamiento de Datos
 import pandas as pd
 import numpy as np
 import seaborn as sns
