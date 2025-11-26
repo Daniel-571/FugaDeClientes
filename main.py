@@ -1,4 +1,4 @@
-# Script principal que une todo
+# script principal que une todo
 from feature_engineering import X_train, X_test, y_train, y_test
 from modelado_entrenamiento import entrenar_modelos
 from evaluacion_visualizacion import visualizar_resultados
